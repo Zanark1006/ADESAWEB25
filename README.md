@@ -10,6 +10,10 @@ La web contará con un sistema de usuarios, un catálogo interactivo, herramient
 
 ---
 
+![Catálogo myVG Market](./images/catalogo.png)
+
+---
+
 ## Público objetivo
 - Jugadores casuales que buscan ofertas.
 - Coleccionistas que buscan títulos antiguos.
@@ -61,5 +65,3 @@ La web contará con un sistema de usuarios, un catálogo interactivo, herramient
   <p>Plataforma: {{ platform }}</p>
   <button>Ver detalles</button>
 </div>
-
-![Boceto myVG Market](./images/catalogo.png)
