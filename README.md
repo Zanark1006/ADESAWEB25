@@ -1,8 +1,8 @@
 # myVG Market – Plataforma de compra y venta de videojuegos
 
 ## Descripción del proyecto
-**myVG Market** es una plataforma web diseñada para facilitar la compra, venta y seguimiento de videojuegos nuevos y de segunda mano.  
-El objetivo principal es crear un espacio seguro, moderno y accesible para que jugadores y coleccionistas puedan intercambiar títulos de cualquier plataforma.
+**myVG Market** es una plataforma web diseñada para la compra, venta y seguimiento de videojuegos nuevos, de segunda mano o en forma de códigos.  
+El objetivo principal es crear un espacio seguro, moderno y accesible para que jugadores y coleccionistas puedan comprar y disfrutar títulos de cualquier plataforma.
 
 La web contará con un sistema de usuarios, un catálogo interactivo, herramientas de búsqueda avanzadas y un panel para gestión de anuncios.
 
@@ -44,7 +44,7 @@ La web contará con un sistema de usuarios, un catálogo interactivo, herramient
 
 ### Frontend
 - **HTML5**, **CSS3** y *JavaScript*.
-- Framework previsto: **React**.
+- Framework previsto: **Figma**.
 - Diseño responsivo con TailwindCSS.
 
 ### Backend
