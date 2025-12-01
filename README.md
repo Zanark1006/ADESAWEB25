@@ -61,3 +61,5 @@ La web contará con un sistema de usuarios, un catálogo interactivo, herramient
   <p>Plataforma: {{ platform }}</p>
   <button>Ver detalles</button>
 </div>
+
+![Boceto myVG Market](./images/catalogo.png)
